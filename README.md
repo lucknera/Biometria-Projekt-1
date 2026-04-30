@@ -1,2 +1,2 @@
-# Biometria-Projekt-1
-Repozytorium przedstawia pierwszy projekt z przedmiotu biometria dotyczący stworzenia aplikacji do wykonywania modyfikacji zdjęć. 
+# Biometria
+Repozytorium przedstawia projekty z przedmiotu Biometria dotyczące stworzenia aplikacji do wykonywania modyfikacji zdjęć oraz implementacji algorytmu do wykrywania granic źrenicy oraz tęczówki.
